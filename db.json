@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "name": "Lutfhi",
+      "tempat_tanggal_lahir": "Tokyo, 23 DESEMBER 2005",
+      "Sekolah": "Smk negeri 6",
+      "Jurusan": "tata boga",
+      "Kelas": "tata boga 4"
+    },
+    {
+      "id": 3,
+      "name": "Yono",
+      "tempat_tanggal_lahir": "Semarang, 23 DESEMBER 2005",
+      "Sekolah": "Smk negeri 6",
+      "Jurusan": "tata boga",
+      "Kelas": "tata boga 4"
+    },
+    {
+      "id": 3,
+      "name": "Hendro",
+      "tempat_tanggal_lahir": "Semarang, 23 MARET 2005",
+      "Sekolah": "Smk negeri 6",
+      "Jurusan": "tata boga",
+      "Kelas": "tata boga 4"
+    }
+  ]
+}
